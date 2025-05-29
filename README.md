@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Java SpringBoot, AWS**
 
-💬 Ask me about my **Projects, Repos, Codes... or anything [here](https://github.com/neelipraveeen/neelipraveeen/issues)**
+💬 Ask me about my **Projects, Repos, Codes... or anything [here](https://github.com/neelipraveen/neelipraveen/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/praveen-neeli-373939343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://neelipraveeen.github.io/Portfolio/" target="_blank">
+  <a href="https://neelipraveen.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/neelipraveeen/neelipraveeen/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/neelipraveen/neelipraveen/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,10 +58,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=neelipraveeen&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api?username=neelipraveeen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=neelipraveen&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api?username=neelipraveen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       <br/>
-  <img width=325 align="center" src="https://github-readme-stats-eight-dun-48.vercel.app/api/top-langs/?username=neelipraveeen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-eight-dun-48.vercel.app/api/top-langs/?username=neelipraveen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
   
 </div>
 <br/><br/>
