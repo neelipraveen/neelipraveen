@@ -23,13 +23,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:420206@student.nitandhra.ac.in">
+  <a href="mailto:420213@student.nitandhra.ac.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/rahul-matta-a42585200/" target="_blank">
+  <a href="https://linkedin.com/in/praveen-neeli-373939343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://rahul420206.github.io/Portfolio/" target="_blank">
+  <a href="https://neelipraveeen.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rahul420206/rahul420206/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/neelipraveeen/neelipraveeen/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,10 +58,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=rahul420206&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api?username=rahul420206&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=neelipraveeen&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api?username=neelipraveeen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       <br/>
-  <img width=325 align="center" src="https://github-readme-stats-eight-dun-48.vercel.app/api/top-langs/?username=rahul420206&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-eight-dun-48.vercel.app/api/top-langs/?username=neelipraveeen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
   
 </div>
 <br/><br/>
