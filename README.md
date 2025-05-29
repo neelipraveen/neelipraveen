@@ -14,7 +14,7 @@
  
  🔭 Currently I'm actively looking for a **developer position**
  
- 🌱 I’m currently learning **Java SpringBoot, AWS**
+ 🌱 I’m currently learning **Java SpringBoot, AWS, Pytorch**
 
 💬 Ask me about my **Projects, Repos, Codes... or anything [here](https://github.com/neelipraveen/neelipraveen/issues)**
 
